@@ -1,8 +1,8 @@
 # MEng Design Project-Zeren
  Repository for ECE6930
 
-I haven't install matlab on my laptop yet (will do that soon), so I upload the confusion matrix as a txt file.
+----------------------------------------------------------
+Update 2022/11/23:
 
-By the way, for parameters, do I need to upload ResNet structure? Or what is required for parameters?
+I uploaded the training history records (.csv files) for ResNet50 and VGG16。
 
-The files for vgg16 will be uploaded this afternoon (11/22)
