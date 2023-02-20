@@ -1,0 +1,8 @@
+batch_size    = 512
+epochs        = 500
+learning rate:
+    if epoch <= 80:
+        return 0.001
+    elif epoch <= 140:
+        return 0.0005
+    else: return 0.0001
