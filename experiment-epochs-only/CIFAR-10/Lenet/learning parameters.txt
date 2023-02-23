@@ -1,0 +1,14 @@
+Learning rate:
+	  if epoch < 100:
+	    return 0.02
+	  elif epoch < 200:
+	    return 0.01
+  	elif epoch < 400:
+ 	   return 0.005
+ 	 elif epoch < 700:
+ 	   return 0.003
+ 	 else: 
+  	  return 0.001 
+
+total epochs: 1000
+batch size: 128
