@@ -4,7 +4,7 @@
 ----------------------------------------------------------
 Update 03/20/2023:
 
-**The integrated training and testing (confusion matrix) notebook is uploaded** 
+**The integrated training and testing (confusion matrix) notebook is uploaded under /experiment-epochs-only/** 
 
 
 Update 02/06/2023:
