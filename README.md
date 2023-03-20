@@ -23,8 +23,6 @@ Repository Structure:
 	- CIFAR-100
 		- utility estimation
 		- prediction performance
->>>>>>> f61952389b41d78b9992db4c564e770874375666
-
 - experiments-epochs-only (***)
 	- CIFAR-10(***)
 		- VGG-16
@@ -33,7 +31,6 @@ Repository Structure:
 			- (optional - just make directory) output files directory (confusion matrix (10x10 table) as a function of epochs)
 				- #epochs_weights.h5 file (model weights)
 				-  output_#epochs.txt (confusion matrix)
-
 		- Resnet
 		- NiN
 		- Alexnet
