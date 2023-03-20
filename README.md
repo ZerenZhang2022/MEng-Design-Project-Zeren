@@ -2,6 +2,11 @@
  Repository for my design project: Interpretable Deep Neural Networks
 
 ----------------------------------------------------------
+Update 03/20/2023:
+
+**The integrated training and testing (confusion matrix) notebook is uploaded** 
+
+
 Update 02/06/2023:
 The structure of this repository is formalized now. 
 The training codes, learning parameters and training outputs (per 10 epochs) of Alexnet on Cifar10 and Cifar100 are uploaded.
