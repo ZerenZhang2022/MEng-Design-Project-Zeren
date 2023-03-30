@@ -27,12 +27,14 @@ All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and C
         <tr>
             <td>
                 <!--左侧内容-->
+		
                 #### ResNet50
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228977240-43ac88ec-cdc8-4d9c-aa38-7ce913529b53.png">
             </td>
             <td>
                 <!--右侧内容-->
-                #### ResNet50
+                
+		#### ResNet50
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228977240-43ac88ec-cdc8-4d9c-aa38-7ce913529b53.png">
             </td>
         </tr>
