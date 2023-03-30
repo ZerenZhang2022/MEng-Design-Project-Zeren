@@ -6,7 +6,10 @@ Update 03/30/2023:
 All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and Cifar100 are published at my site: https://zerenzhang2022.github.io/h5%20files/
 
 - Training results curve:
-## Cifar100
+### Cifar100:
+#### LeNet
+![image](https://user-images.githubusercontent.com/118794589/228973939-92afc03a-6472-4722-aa33-d0454f1e2483.png)
+
 
 
 ----------------------------------------------------------
