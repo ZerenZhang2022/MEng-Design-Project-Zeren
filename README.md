@@ -22,30 +22,6 @@ All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and C
 #### ResNet50
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228977240-43ac88ec-cdc8-4d9c-aa38-7ce913529b53.png">
 
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                <!--左侧内容-->
-                <h2>Cifar10</h2><br>
-		LeNet<br>
-		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> <br>
-		AlexNet<br>
-		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975938-827b63b9-3e16-4ff1-81af-2ae4d18e47db.png"><br>
-		
-            </td>
-            <td>
-                <!--右侧内容-->
-                <h2>Cifar100</h2><br>
-		LeNet<br>
-		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> <br>
-		AlexNet<br>
-		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975938-827b63b9-3e16-4ff1-81af-2ae4d18e47db.png"><br>
-		
-            </td>
-        </tr>
-    </table>
-</html>
 
 <html>
     <table style="margin-left: auto; margin-right: auto;">
@@ -57,6 +33,12 @@ All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and C
 		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> <br>
 		AlexNet<br>
 		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975938-827b63b9-3e16-4ff1-81af-2ae4d18e47db.png"><br>
+		NiN<br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228976910-dd8f0fc9-f61a-4e2f-a5dd-bf654d0716d5.png"><br>
+		VGG16<br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228977182-6c8dce4c-f917-47cf-85a0-ad78171383b2.png"><br>
+		ResNet50<br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228977240-43ac88ec-cdc8-4d9c-aa38-7ce913529b53.png"><br>
             </td>
             <td>
                 <!--右侧内容-->
@@ -65,6 +47,12 @@ All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and C
 		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> <br>
 		AlexNet<br>
 		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975938-827b63b9-3e16-4ff1-81af-2ae4d18e47db.png"><br>
+		NiN<br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228976910-dd8f0fc9-f61a-4e2f-a5dd-bf654d0716d5.png"><br>
+		VGG16<br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228977182-6c8dce4c-f917-47cf-85a0-ad78171383b2.png"><br>
+		ResNet50<br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228977240-43ac88ec-cdc8-4d9c-aa38-7ce913529b53.png"><br>
             </td>
         </tr>
     </table>
