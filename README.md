@@ -9,7 +9,7 @@ All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and C
 ### Cifar100:
 #### LeNet
 ![image](https://user-images.githubusercontent.com/118794589/228973939-92afc03a-6472-4722-aa33-d0454f1e2483.png)
-<img width="560" alt="image" src="https://user-images.githubusercontent.com/118794589/228973999-c3b6032d-5ec7-4455-82c8-010db4d6b36d.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/118794589/228973999-c3b6032d-5ec7-4455-82c8-010db4d6b36d.png">
 <img width="291" alt="image" src="https://user-images.githubusercontent.com/118794589/228974041-e8c8f83c-69a8-4d20-b93c-3544487ba99e.png">
 
 
