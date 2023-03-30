@@ -27,18 +27,18 @@ All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and C
         <tr>
             <td>
                 <!--左侧内容-->
-                左侧
-		LeNet
+                左侧<br>
+		LeNet<br>
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> 
-		LeNet
+		LeNet<br>
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> 
             </td>
             <td>
                 <!--右侧内容-->
-                右侧
-		LeNet
+                右侧<br>
+		LeNet<br>
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> 
-		LeNet
+		LeNet<br>
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> 
             </td>
         </tr>
