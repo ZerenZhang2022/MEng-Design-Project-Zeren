@@ -4,6 +4,7 @@
 ----------------------------------------------------------
 Update 03/30/2023:
 All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and Cifar100 are published at my site: https://zerenzhang2022.github.io/h5%20files/
+<img width="346" alt="image" src="https://user-images.githubusercontent.com/118794589/228972826-99919d10-859e-4280-828d-735efb7b09ae.png">
 
 ----------------------------------------------------------
 Update 03/20/2023:
