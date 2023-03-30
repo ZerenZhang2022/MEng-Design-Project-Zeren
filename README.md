@@ -53,7 +53,7 @@ All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and C
 		VGG16<br>
 		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228977182-6c8dce4c-f917-47cf-85a0-ad78171383b2.png"><br>
 		ResNet50<br>
-		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228977240-43ac88ec-cdc8-4d9c-aa38-7ce913529b53.png"><br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228977240-43ac88ec-cdc8-4d9c-aa38-7ce913529b53.png">
 
             </td>
         </tr>
