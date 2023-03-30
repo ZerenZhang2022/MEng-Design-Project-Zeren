@@ -30,10 +30,14 @@ All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and C
                 左侧
 		LeNet
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> 
+		LeNet
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> 
             </td>
             <td>
                 <!--右侧内容-->
                 右侧
+		LeNet
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> 
 		LeNet
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> 
             </td>
