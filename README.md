@@ -28,7 +28,7 @@ All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and C
         <tr>
             <td>
                 <!--左侧内容-->
-                                <h2>Cifar100</h2><br>
+                                <h2>Cifar10</h2><br>
 		LeNet<br>
 		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> <br>
 		AlexNet<br>
@@ -44,15 +44,15 @@ All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and C
                 <!--右侧内容-->
                                 <h2>Cifar100</h2><br>
 		LeNet<br>
-		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> <br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228982669-b10c55e6-7ee7-4957-b0bc-f0f4164138c5.png"><br>
 		AlexNet<br>
-		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975938-827b63b9-3e16-4ff1-81af-2ae4d18e47db.png"><br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228982717-08964bd7-8754-4949-8387-1c8c4acbb202.png"><br>
 		NiN<br>
-		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228976910-dd8f0fc9-f61a-4e2f-a5dd-bf654d0716d5.png"><br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228982754-101f4b1b-dfaa-4939-a005-91f5b8182224.png"><br>
 		VGG16<br>
-		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228977182-6c8dce4c-f917-47cf-85a0-ad78171383b2.png"><br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228982797-4a8f79f8-3013-4150-b442-7902f6c27700.png"><br>
 		ResNet50<br>
-		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228977240-43ac88ec-cdc8-4d9c-aa38-7ce913529b53.png"><br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228982836-c9a03abb-6bf3-447c-bb8d-20c1381346f0.png"><br>
             </td>
         </tr>
     </table>
