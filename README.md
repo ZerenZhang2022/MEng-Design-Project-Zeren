@@ -47,9 +47,36 @@ All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and C
     </table>
 </html>
 
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
+                                <h2>Cifar100</h2><br>
+		LeNet<br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> <br>
+		AlexNet<br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975938-827b63b9-3e16-4ff1-81af-2ae4d18e47db.png"><br>
+            </td>
+            <td>
+                <!--右侧内容-->
+                                <h2>Cifar100</h2><br>
+		LeNet<br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> <br>
+		AlexNet<br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975938-827b63b9-3e16-4ff1-81af-2ae4d18e47db.png"><br>
+            </td>
+        </tr>
+    </table>
+</html>
 
 
-----------------------------------------------------------
+
+--------------------                <h2>Cifar100</h2><br>
+		LeNet<br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975313-5cf967c1-8bf0-4926-b770-b401f6107ff8.png"> <br>
+		AlexNet<br>
+		<img width="300" alt="image" src="https://user-images.githubusercontent.com/118794589/228975938-827b63b9-3e16-4ff1-81af-2ae4d18e47db.png"><br>------------------------------------
 Update 03/20/2023:
 
 **The integrated training and testing (confusion matrix) notebook is uploaded under /experiment-epochs-only/** 
