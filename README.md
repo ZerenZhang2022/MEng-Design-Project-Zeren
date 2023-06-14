@@ -2,6 +2,11 @@
  Repository for my design project: Interpretable Deep Neural Networks
  
 ----------------------------------------------------------
+Update 05/28/2023:
+The poster-winner I designed for this project (won the best poster among all ECE class of 2023)
+![MEng Poster - Zeren - 0503_00](https://github.com/ZerenZhang2022/MEng-Design-Project-Zeren/assets/118794589/bb013e92-89a6-442d-9466-e78097adad29)
+
+
 Update 03/30/2023:
 All the training results ( AlexNet, Lenet, NiN, ResNet, VGG16 with Cifar10 and Cifar100 are published at my site: https://zerenzhang2022.github.io/h5%20files/
 
